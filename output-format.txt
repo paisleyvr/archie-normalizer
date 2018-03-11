@@ -1,0 +1,2 @@
+FIELD_SEPARATOR=,
+FIELDS=year,cave,unit,level,name,date,north,east,elevation,material
